@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "529697335306",
+    "project_id": "malajog-park",
+    "storage_bucket": "malajog-park.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529697335306:android:9a0c7bbc8def2d31fb57f3",
+        "android_client_info": {
+          "package_name": "org.olympustech.mlp_sys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529697335306-bkipbura0hkm041lmidfrhebfq02sm1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTq98YErdFRFkRud7rTKz7xG5k--GrskY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529697335306-bkipbura0hkm041lmidfrhebfq02sm1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "529697335306-2vftms0jaaau2bbahr499crrpqfm24pg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.olympustech.mlpSys"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
